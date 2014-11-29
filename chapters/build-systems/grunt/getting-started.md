@@ -57,6 +57,10 @@ You can now run this task with:
 ```bash
 $ grunt version
 ```
+Quick Tip: If you want to setup a prepopulated Gruntfile.js. Run below lines in your command prompt after npm setup (* it is just cloning a repository to create a Gruntfile.js)
+  $ git clone https://github.com/gruntjs/grunt-init-gruntfile.git ~/.grunt-init/gruntfile
+  $ grunt-init gruntfile
+
 
 ## Grunt plugins
 
